@@ -18,7 +18,7 @@
  *
  * @package    Weekly_Training_Plan
  * @subpackage Weekly_Training_Plan/public
- * @author     Your Name <email@example.com>
+ * @author     Eirik Marthinsen <eirikma@gmail.com>
  */
 class Weekly_Training_Plan_Public {
 
