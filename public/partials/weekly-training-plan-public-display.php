@@ -8,8 +8,8 @@
  * @link       http://example.com
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/public/partials
+ * @package    Weekly_Training_Plan
+ * @subpackage Weekly_Training_Plan/public/partials
  */
 ?>
 
